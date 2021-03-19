@@ -21,4 +21,4 @@ There will be a score counter to keep track of all the complete rows the user ha
   
   
   ## Wireframe
-
+ see attached screenshot
