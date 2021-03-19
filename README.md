@@ -23,3 +23,6 @@ There will be a score counter to keep track of all the complete rows the user ha
   ## Wireframe
     ![alt text](wireframe.png!)
     [wireframe](https://user-images.githubusercontent.com/47678940/111726954-4c0ae900-8840-11eb-8844-2a3382935d8c.png)
+    
+    <img width="521" alt="Screen Shot 2021-03-19 at 10 32 05 AM" src="https://user-images.githubusercontent.com/47678940/111796418-8905c880-889e-11eb-8080-a5db5d981a3b.png">
+
