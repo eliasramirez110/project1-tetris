@@ -34,3 +34,8 @@ font-size: 25px;
   height: 30px;
   margin-bottom: 30px;
 }
+
+.instructions {
+  display: flex;
+  margin-right: 500px;
+}
