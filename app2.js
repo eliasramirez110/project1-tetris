@@ -4,9 +4,11 @@ const ctx = cvs.getContext("2d")
 const scoreElement = document.getElementById("score")
 
 //start button
-const btn = document.getElementsByClassName('resetbtn')
+const btn = document.getElementsByClassName('resetbtn') 
 
 
+
+//variables
 const row = 20
 const col = 10
 const square = 20
@@ -270,4 +272,7 @@ function drop(){
 }
 
 drop()
+
+//timer
+
 
